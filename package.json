@@ -1,0 +1,31 @@
+{
+  "name": "wechaty-friend-pass",
+  "version": "0.0.1",
+  "description": "Wechat friend application passes automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isboyjc/wechaty-friend-pass.git"
+  },
+  "keywords": [
+    "wechaty",
+    "wechaty plugin",
+    "wechaty-friend-pass",
+    "wechaty-friendPass",
+    "WechatyFriendPassPlugin"
+  ],
+  "author": "isboyjc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isboyjc/wechaty-friend-pass/issues"
+  },
+  "homepage": "https://github.com/isboyjc/wechaty-friend-pass#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "0.39.30",
+    "wechaty-puppet-padplus": "0.7.15"
+  }
+}
