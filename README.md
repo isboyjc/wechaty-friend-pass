@@ -97,8 +97,8 @@ bot
 <img src="https://gitee.com/IsboyJC/PictureBed/raw/master/other/asdakshdajshdas1.jpeg" width="200" height="200" alt="图片名称" align=left />
 
 <div style="left">
-<img src="https://gitee.com/IsboyJC/PictureBed/raw/master/other/image-20200613231806371.png" width="200" height="390"  alt="图片名称" align=left />
-<img src="https://gitee.com/IsboyJC/PictureBed/raw/master/other/image-20200613231757054.png" width="200" height="390"  alt="图片名称" align=right/>
+<img src="https://gitee.com/IsboyJC/PictureBed/raw/master/other/image-20200613231806371.png" width="200" height="400"  alt="图片名称" align=left />
+<img src="https://gitee.com/IsboyJC/PictureBed/raw/master/other/image-20200613231757054.png" width="200" height="400"  alt="图片名称" align=right/>
 </div>
 
 
