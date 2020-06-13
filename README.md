@@ -93,19 +93,9 @@ bot
 ### 最后
 <img src="https://gitee.com/IsboyJC/PictureBed/raw/master/other/asdakshdajshdas1.jpeg" width="200" height="200" alt="图片名称" align=left />
 
+<p>扫描上方二维码，加圈子微信，进交流群哦，效果如下图，赶快来试试吧</p>
 
-
-
-
-
-
-
-
-
-
-扫描上方二维码，加圈子微信，进交流群哦，效果如下图，赶快来试试吧
-
-<div style="">
+<div style="left">
 <img src="https://gitee.com/IsboyJC/PictureBed/raw/master/other/image-20200613231806371.png" width="200" height="390"  alt="图片名称" align=left />
 <img src="https://gitee.com/IsboyJC/PictureBed/raw/master/other/image-20200613231757054.png" width="200" height="390"  alt="图片名称" align=right/>
 </div>
