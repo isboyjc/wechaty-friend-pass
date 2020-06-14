@@ -1,6 +1,6 @@
 {
   "name": "wechaty-friend-pass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wechat friend application passes automatically",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "wechaty plugin",
     "wechaty-friend-pass",
     "wechaty-friendPass",
-    "WechatyFriendPassPlugin"
+    "WechatyFriendPass"
   ],
   "author": "isboyjc",
   "license": "ISC",
