@@ -2,7 +2,7 @@
  * @Author: isboyjc
  * @Date: 2020-06-13 22:38:02
  * @LastEditors: isboyjc
- * @LastEditTime: 2020-06-13 22:50:21
+ * @LastEditTime: 2020-06-14 19:07:40
  * @Description: file content
  */
 
@@ -12,8 +12,8 @@ const { Wechaty } = require("wechaty")
 const { PuppetPadplus } = require("wechaty-puppet-padplus")
 // qr码
 const Qrterminal = require("qrcode-terminal")
-// 插件 WechatyFriendPassPlugin
-const WechatyFriendPassPlugin = require("../index")
+// 插件 WechatyFriendPass
+const WechatyFriendPass = require("../index")
 
 // 初始化 bot
 const bot = new Wechaty({
@@ -41,7 +41,7 @@ const options = {
 }
 
 // 使用插件
-bot.use(WechatyFriendPassPlugin(options))
+bot.use(WechatyFriendPass(options))
 
 bot
   .on("scan", (qrcode, status) => {

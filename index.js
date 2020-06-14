@@ -2,7 +2,7 @@
  * @Author: isboyjc
  * @Date: 2020-05-30 19:10:06
  * @LastEditors: isboyjc
- * @LastEditTime: 2020-06-13 22:51:41
+ * @LastEditTime: 2020-06-14 19:07:51
  * @Description: wechaty plugin 好友申请自动通过
  */
 const DEFAULT_CONFIG = {
@@ -12,7 +12,7 @@ const DEFAULT_CONFIG = {
 }
 const PASSALL = false
 
-module.exports = function WechatyFriendPassPlugin(config = {}) {
+module.exports = function WechatyFriendPass(config = {}) {
   config = Object.assign({}, DEFAULT_CONFIG, config)
 
   if (config.keyword === "*") PASSALL = true
